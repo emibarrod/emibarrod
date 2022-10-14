@@ -21,7 +21,7 @@ I just do CTRL + C, CTRL + V and I call it Data Science 📈.
 
 I studied Computer Engineering, but I consider myself to be self-taught. Everyday I work towards the goal of improving in the data field. I have developed a great variety of projects: from predictive models in Python, to ETL and reporting using Azure Data Factory and PowerBI.
 
-I try to create content here in [LinkedIn](https://www.linkedin.com/in/emibarrod/) and in [my personal web](https://emibarrod.com).
+I try to create content in [LinkedIn](https://www.linkedin.com/in/emibarrod/) and in [my personal web](https://emibarrod.com).
 
 ## Technologies, languages, libraries, etc:
 
